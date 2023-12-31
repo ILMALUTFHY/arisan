@@ -1,0 +1,24 @@
+[{
+  "_id": "A01",
+  "nama": "Ilma",
+  "alamat": "Welahan",
+  "no_telepon": "1234567898"
+},
+{
+  "_id": "A02",
+  "nama": "Nafik",
+  "alamat": "Wonorejo",
+  "no_telepon": "0987654321"
+},
+{
+  "_id": "A03",
+  "nama": "Dandhy",
+  "alamat": "Sinanggul",
+  "no_telepon": "5432167890"
+},
+{
+  "_id": "A04",
+  "nama": "Annas",
+  "alamat": "Bapangan",
+  "no_telepon": "6789054321"
+}]

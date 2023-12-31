@@ -1,0 +1,12 @@
+[{
+  "_id": "C01",
+  "tanggal": "2023-12-08",
+  "anggota_id": "A02",
+  "arisan_id": "B01"
+},
+{
+  "_id": "C02",
+  "tanggal": "2023-12-08",
+  "anggota_id": "A01",
+  "arisan_id": "B02"
+}]

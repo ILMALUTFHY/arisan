@@ -1,0 +1,12 @@
+[{
+  "_id": "B01",
+  "nama_ars": "Minggunan",
+  "jumlah_psrt": 4,
+  "total_strn": 80000
+},
+{
+  "_id": "B02",
+  "nama_ars": "Bulanan",
+  "jumlah_psrt": 5,
+  "total_strn": 300000
+}]
